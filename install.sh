@@ -15,7 +15,7 @@ installTheme(){
     echo "Memasang tema...tunggu ya"
     cd /var/www/pterodactyl
     rm -r nightDy
-    git clone https://github.com/mufniDev/nightDy.git
+    git clone https://github.com/LeonzNardi/Kontil.git
     cd nightDy
     rm /var/www/pterodactyl/resources/scripts/mufniDev.css
     rm /var/www/pterodactyl/resources/scripts/index.tsx
@@ -72,7 +72,7 @@ echo "Tapi anda tidak boleh memperjual belikan script ini tanpa seijin developer
 echo "#RespectTheDevelopers"
 echo ""
 echo "Discord:-"
-echo "GitHub: https://github.com/mufniDev"
+echo "GitHub: https://github.com/LeonzNardi"
 echo "Website: https://mufni.rf.gd"
 echo ""
 echo "[1] Pasang tema"
